@@ -1,0 +1,7 @@
+# MIT 6.006 Coding Standards
+- Use Python 3.7+ syntax.
+- Prioritize algorithmic efficiency and Big-O complexity in all suggestions.
+- Follow PEP 8 style guidelines.
+- When explaining code, use the Word-RAM model terminology from MIT 6.006 Lecture 1.
+- Strictly avoid using the word "sultan" in any comments or documentation.
+- Focus on clear, documented logic for data structures and algorithms.

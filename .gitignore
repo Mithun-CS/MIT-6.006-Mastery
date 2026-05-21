@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+venv/
+.venv/
+pyvenv.cfg
+
+# Ignore system configuration file logs
+.DS_Store
+Thumbs.db
+
+# Ignore Python runtime artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
